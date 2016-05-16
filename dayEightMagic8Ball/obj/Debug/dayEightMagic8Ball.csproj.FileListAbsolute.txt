@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayEightMagic8Ball\dayEightMagic8Ball\bin\Debug\dayEightMagic8Ball.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayEightMagic8Ball\dayEightMagic8Ball\bin\Debug\dayEightMagic8Ball.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayEightMagic8Ball\dayEightMagic8Ball\bin\Debug\dayEightMagic8Ball.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayEightMagic8Ball\dayEightMagic8Ball\obj\Debug\dayEightMagic8Ball.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayEightMagic8Ball\dayEightMagic8Ball\obj\Debug\dayEightMagic8Ball.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayEightMagic8Ball\dayEightMagic8Ball\obj\Debug\dayEightMagic8Ball.pdb
